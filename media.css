@@ -1,0 +1,286 @@
+@media  (max-width:1024px) {
+    .wraper-div {
+        flex-direction: column;
+       max-width: 1024px;
+       width: 95%;
+       
+    }
+    .action {margin: 0 auto;
+    }    
+
+    .p-item {
+        max-width: 415.5px;
+        width: 100%;
+        margin-top: 10px;
+    
+    }
+    .text-h1,
+    .text-p{
+        max-width: 630px;
+        width: 100%;
+        text-align: center;
+    } 
+    .p-tag {
+        width: 370px;
+        padding-top: 20px;
+    }  
+    .right-box {
+        
+        width: 100%;
+        margin-top: 86px;
+        
+    }  
+    
+
+    .grey{
+        max-width: 1024px;
+        width: 90%;
+        
+    } 
+    .gray-bg {
+       max-width: 279.33px;
+       width: 100%;
+        
+    }
+    .grey-p {
+        max-width: 279.33px;
+        width: 100%;
+       
+    }
+    .items {
+        flex-direction: column;
+    }
+     .img-jp {
+        max-width: 1024px;
+        width: 100%;
+    } 
+    .texts-3 {
+        max-width: 960px;
+        width: 100%;
+        display: flex;
+        column-gap: 129px;
+        
+    }
+    .h2{
+        text-align: center;
+        width: 415.5px;
+    }
+    /* .footer {
+        width: 100%;
+        display: flex;
+    } */
+    .first-column{
+        display: none;
+    } 
+    .footer-div {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .last {
+        display: flex;
+    }
+  
+}
+            /* 744 */
+@media  (max-width:744px) {
+    .wraper-div{
+        max-width: 744px;
+        width: 100% ;
+        
+       }
+     
+  
+    .text-h1
+   {
+        text-align: center;
+        font-size: 30px;
+        font-weight: 900;
+       
+   }
+   
+   .text-p {
+    text-align: center;
+    
+   }
+   .first{ 
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   }
+
+   .right-box img {
+    max-width: 1024px;
+    width: 100%;
+    margin-top: 24px;
+    vertical-align: middle;
+
+   }
+   .grey-box {
+    flex-direction: column; 
+    width: 90%;
+   
+   }
+   .gray-bg {
+    max-width: 744px;
+    width: 100%;
+    height: 138px;
+    text-align: center;
+    flex-direction: column;
+   } 
+   .text-h1,
+   .text-p
+    {
+    max-width: 696px;
+    width: 100%;
+    
+   }
+   
+  
+   .img-text {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+   }
+  .grey-p1 {
+    max-width: 744px;
+    width: 100%;
+    text-align: center;
+  }
+   
+  .items {
+    max-width: 960px;
+    width: 100% ;
+    
+  }
+  .texts-3 {
+    max-width:  415.5px;
+    width: 100%;
+    flex-direction: column;
+    
+   
+  }
+  .p-item {
+ 
+  margin: 0 auto;
+  text-align: center;
+  gap: 8px;
+  }
+  .h2 {
+   max-width: 415.5px;
+   width: 100%;
+   text-align: center;
+   
+  }
+  .two {
+   margin-top: 29px ;
+   margin-bottom: 29px;
+   flex-wrap: nowrap;
+  }
+  .footer {
+    
+    display: flex;
+  }
+   .first-column{
+    display: none;
+  } 
+   .footer-div {
+    max-width: 960px;
+    width: 90%;
+    flex-direction: column;
+  }
+   .last {
+    display: flex;
+  }
+  .text-on-bg{
+    max-width: 744px;
+    width: 95%;;
+  }
+}
+
+
+ 
+    
+    /* /* ---------3 7 5------------* */
+@media  (max-width:376px) {
+   
+    .text-nav,
+    .box {
+        display: none;
+
+    }
+    
+    .burger   {
+        display: inline-block;
+        margin-top: 20px;
+    }
+    .left-box,
+    .first {
+        max-width:327px;
+    }
+    .p-tag {
+       text-align: center;
+    }
+    .gray-bg {
+        height: 170px;
+        text-align: center;
+    }
+    .img-jp,
+    .h2,
+    .p-item {
+        max-width: 327px;
+        width: 90%;
+        
+    }
+   
+    .positions {
+        width: 274px;
+        height: 232px;
+       padding-top: 30px;
+    }
+    .section-bg   {
+        max-width: 375px; 
+    }
+    
+    .text-on-bg {
+        max-width: 247px;
+        width: 100%;
+        height: 144px;
+        font-size: 28px;
+       
+    }
+    .i-item{
+       max-width: 327px;
+    }
+    .text3 {
+        max-width: 328px;
+        width:95%;
+        margin: 0 auto;
+    }
+    
+    .footer {
+        width: 100%;
+        display: flex;
+    }
+    .first-column{
+        display: none;
+    } 
+    .footer-div {
+        flex-direction: column;
+     }
+    .last {
+        display: flex;
+    }
+    .p-tag {
+        max-width:327px ;
+        width: 95%;
+    }
+
+}
+    
+    
+   
+      
+         
